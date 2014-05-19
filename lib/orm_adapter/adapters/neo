@@ -1,3 +1,5 @@
+require 'neography'
+
 module Neo4j
   module ActiveNode
     module ClassMethods
